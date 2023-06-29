@@ -7,6 +7,7 @@
 ## Education:
 
 #### 1. [Universitas Diponegoro](https://www.undip.ac.id) | Bachelor of Mathematics | Semarang `2020-Now`
+Current GPA 3.50/4.00 (125 Credits)
 
 ## Organization Experience:
 #### 1. HM Matematika Universitas Diponegoro | Division - Networking Information and Communication | `2021-2022`
