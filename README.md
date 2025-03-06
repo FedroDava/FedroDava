@@ -1,13 +1,13 @@
 # Hi there, I'm Fedro 👋
 ## About me:
-- 🔭 I’m currently studying in Mathematics
-- 🌱 I’m currently learning Python and SQL
+- 🔭 I’m a graduate Bachelor Degree of Mathematics From Diponegoro University
+- 🌱 I’m currently learning Python, R, SQL, and Machine Learning
 - 📫 How to reach me: fedrodava@gmail.com
 
 ## Education:
 
-#### 1. [Universitas Diponegoro](https://www.undip.ac.id) | Bachelor of Mathematics | Semarang `2020-Now`
-Current GPA 3.50/4.00 (125 Credits)
+#### 1. [Universitas Diponegoro](https://www.undip.ac.id) | Bachelor of Mathematics | Semarang `2020-2024`
+Current GPA 3.57/4.00 
 
 ## Organization Experience:
 #### 1. HM Matematika Universitas Diponegoro | Division - Networking Information and Communication | `2021-2022`
